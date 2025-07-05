@@ -18,13 +18,13 @@ body {
 /* Estilo da área da esquerda */
 .left-side {
     flex: 0.4;
-    background-color: #8aaae53b;
+    background-color: rgba(138, 170, 229, 0.23);
 }
 
 /* Estilo da área da direita */
 .right-side {
     flex: 0.6;
-    background-color: #fff;
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
 }
@@ -40,14 +40,14 @@ nav {
 }
 
 nav a {
-    color: #333;
+    color: #333333;
     text-decoration: none;
     font-weight: bold;
     padding: 8px 12px;
 }
 
 nav a:hover {
-    background-color: #eee;
+    background-color: #eeeeee;
     border-radius: 4px;
 }
 
