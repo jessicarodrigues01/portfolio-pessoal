@@ -65,7 +65,7 @@ main {
     border-radius: 8px;
 }
 
-/* Estilo para imagens dos meus projetos */
+/* Estilo para lista e imagens dos meus projetos */
 .lista-projetos {
     list-style: none;
     display: flex;
